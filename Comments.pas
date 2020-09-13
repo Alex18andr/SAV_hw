@@ -1,5 +1,5 @@
 program Comments;
 
 begin
-    writeln('Comments!');
+    writeln('Comment was added!');
 end.
